@@ -14,21 +14,21 @@ KELAS : TI.21.B1
 DOSEN : Agung Nugroho,S.Kom.,M.Kom
 # Langkah-langkah Praktikum
 # Membuat Box Element
-[img](ss/ss1.png)
+![img](ss/ss1.png)
 # Membuat Layout Sederhana
-[img](ss/ss2.png)
+![img](ss/ss2.png)
 # Menambahkan CSS
-[img](ss/ss3.png)
+![img](ss/ss3.png)
 # Membuat Navigasi Dan Membuat Hero Panel
-[img](ss/ss4.png)
+![img](ss/ss4.png)
 # Membuat Sidebar Widget
-[img](ss/ss6.png)
+![img](ss/ss6.png)
 # Mengatur Footer
-[img](ss/ss.png)
+![img](ss/ss.png)
 # Menambahkan Element Pada Main Content Dan Menambahkan CSS
-[img](ss/ss8.png)
+![img](ss/ss8.png)
 # Menambahkan Content Artikel
-[img](ss/ss9.png)
+![img](ss/ss9.png)
 
 # Pertanyaan Dan Tugas
 1.Tambahkan Layout untuk Menu About
@@ -37,6 +37,6 @@ DOSEN : Agung Nugroho,S.Kom.,M.Kom
 => yang berisi form isian : nama,email,message,dll
 # JAWABAN
 # 1
-[img](ss/ss10.png)
+![img](ss/ss10.png)
 # 2
-[img](ss/ss11.png)
+![img](ss/ss11.png)
