@@ -24,7 +24,7 @@ DOSEN : Agung Nugroho,S.Kom.,M.Kom
 # Membuat Sidebar Widget
 ![img](ss/ss6.png)
 # Mengatur Footer
-![img](ss/ss.png)
+![img](ss/ss12.png)
 # Menambahkan Element Pada Main Content Dan Menambahkan CSS
 ![img](ss/ss8.png)
 # Menambahkan Content Artikel
